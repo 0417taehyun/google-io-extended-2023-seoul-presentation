@@ -1,10 +1,10 @@
-# Google I/O Extended Seoul 2023 발표
+# Google I/O Extended 2023 Seoul 발표
 
 > Go 언어에서의 패키지 취약성 관리와 deps.dev API를 활용하여 다른 언어에서 이를 구축하는 방법
 
 ## 들어가며
 
-2023년 07월 29일 토요일 코엑스 4층 컨퍼런스룸에서 진행한 [Google I/O 2023 Extended Seoul](https://festa.io/events/3683) 행사의 <Go 언어에서의 패키지 취약성 관리와 deps.dev API를 활용하여 다른 언어에서 이를 구축하는 방법> 발표에 사용된 소스 코드예요.
+2023년 07월 29일 토요일 코엑스 4층 컨퍼런스룸에서 진행한 [Google I/O Extended 2023 Seoul](https://festa.io/events/3683) 행사의 <Go 언어에서의 패키지 취약성 관리와 deps.dev API를 활용하여 다른 언어에서 이를 구축하는 방법> 발표에 사용된 소스 코드예요.
 
 ## 발표 자료
 
