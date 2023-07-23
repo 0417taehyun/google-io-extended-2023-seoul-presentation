@@ -1,0 +1,8 @@
+{
+    "go.diagnostic.vulncheck": "Imports", 
+    "gopls": {
+      "codelenses": {
+        "run_govulncheck": true
+      }        
+    }    
+}

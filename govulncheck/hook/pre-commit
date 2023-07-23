@@ -1,0 +1,11 @@
+#!/bin/sh
+
+TARGET_DIRECTORY=$(find . -name go.mod -exec dirname {} \;)
+cd $TARGETDIRECTORY
+
+govulncheck .
+
+if [ $? -ne 0 ]; then
+    echo "취약성 발견!"
+    exit 1
+fi

@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pyvulncheck"
+version = "0.1.0"
+description = ""
+authors = ["Taehyun Lee <0417taehyun@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

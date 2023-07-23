@@ -1,0 +1,4 @@
+fastapi==0.50.0
+pydantic==1.10.11
+starlette==0.13.2
+typing_extensions==4.7.1
